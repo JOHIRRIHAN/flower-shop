@@ -1,0 +1,50 @@
+*{
+    font-family: 'Open Sans', 'sans-serif',
+}
+.banner{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .banner-greeting{
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+}
+.banner .banner-greeting-p{
+    font-size: 15px;
+}
+.banner .profile-pic{
+    width: 635px;
+    height: 800px;
+}
+.banner .btn-primary{
+    color: #FFF;
+    border-radius: 5px;
+    background: #E55473;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    border: 15px solid #E55473;
+    margin: 30px 0;
+    
+}
+/* main section style */
+
+/* about section */
+.about{
+    padding: 130px 130px 130px ;
+    
+}
+
+.about .section-title{
+    font-size: 35px;
+    text-align: center;
+}
+.about .section-description{
+    text-align: center;
+    padding: 30px 150px;
+}
